@@ -4,7 +4,7 @@
   "plugins": ["node-workspace"],
   "sequential-calls": true,
   "changelog-type": "github",
-  "group-pull-request-title-pattern": "chore(${scope}): release ${version}",
+  "group-pull-request-title-pattern": "chore: release ${version}",
   "packages": {
     ".": {},
     "packages/discordeno": {},
