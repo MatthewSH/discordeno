@@ -3,8 +3,10 @@
   "release-type": "node",
   "plugins": ["node-workspace"],
   "sequential-calls": true,
-  "group-pull-request-title-pattern": "chore: release ${version}",
+  "changelog-type": "github",
+  "group-pull-request-title-pattern": "chore(${scope}): release ${version}",
   "packages": {
+    ".": {},
     "packages/discordeno": {},
     "packages/types": {},
     "packages/utils": {},
