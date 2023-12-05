@@ -1,8 +1,8 @@
 {
-  "packages/discordeno": "18.0.0",
-  "packages/types": "18.0.0",
-  "packages/utils": "18.0.0",
-  "packages/rest": "18.0.0",
-  "packages/gateway": "18.0.0",
-  "packages/bot": "18.0.0"
+  "packages/discordeno": "19.0.0",
+  "packages/types": "19.0.0",
+  "packages/utils": "19.0.0",
+  "packages/rest": "19.0.0",
+  "packages/gateway": "19.0.0",
+  "packages/bot": "19.0.0"
 }
